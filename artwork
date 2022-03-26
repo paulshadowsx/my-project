@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> 
+            Arwork | PaulShadowsX
+        </title>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" type="text/css">
+        <style>
+            body {
+                color: slateblue;
+                font-size: 20px;
+                font-family: 'Roboto', sans-serif;
+            }
+            #menu {
+                background-color: rgb(215, 215, 255);
+                margin-left: 400px;
+                margin-right: 400px;
+                padding-left: 0px;
+            }
+            .smaller-image {
+                width: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <div id="menu">
+                <a href="https://paulshadowsxx.w3spaces.com/index.html">Home</a>
+                <a href="#">Artwork</a>
+            </div>
+            <div>
+                <img class="smaller-image" src="https://paulshadowsx.files.wordpress.com/2022/03/illustration-colored-wip-6.png" alt="Illustration_colored_WIP">
+                <img class="smaller-image" src="https://paulshadowsx.files.wordpress.com/2022/03/paimon1.23.png" alt="paimon_ayaya">
+            </div>
+        </main>
+    </body>
+</html>
